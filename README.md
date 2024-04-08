@@ -5,13 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -31,14 +25,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 4. Data Fetching
    - Bonus 1: Use TanStack query for efficient data fetching from a server or API.
 5. Integration
-   - Bonus 2: Integrate OpenAI API to provide additional features like ideas for recipe modifications or other suggestions.
+   - Bonus 2: Integrate OpenAI API to provide additional features like ideas for recipe modifications or other suggestions.(running out of time to work on this)
 6. Testing
+   - Bonus 3: Include tests (unit, integration, and/or end-to-end) for main functionalities.
 
-- Bonus 3: Include tests (unit, integration, and/or end-to-end) for main functionalities.
-
-# recipe_app
-
-fetching data with tanstack query
-# recipe_app
-# recipe_app
-# recipe_app
+# recipe_app_demo
+https://www.youtube.com/watch?v=ta1LF6UuaKQ
